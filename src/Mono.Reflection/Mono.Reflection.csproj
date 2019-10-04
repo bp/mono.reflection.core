@@ -6,7 +6,7 @@
     <FileVersion>$(Version)</FileVersion>
     <Authors>Jb Evain</Authors>
     <Company>Novell, Inc.</Company>
-    <PackageId>Mono.Reflection.Core</PackageId>
+    <PackageId>BP.Mono.Reflection</PackageId>
     <PackageTags>assembly assemblies module modules il cil msil bytecode reflection disassembler</PackageTags>
     <Description>Complement for System.Reflection, including an IL disassembler.</Description>
     <PackageProjectUrl>http://github.com/hazzik/mono.reflection/</PackageProjectUrl>
